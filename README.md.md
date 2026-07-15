@@ -53,10 +53,12 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 ## Results
 
-The models successfully classify movie reviews into positive and negative sentiments. The project demonstrates the practical application of Artificial Intelligence and Natural Language Processing in text classification.
+The models successfully classify movie reviews into positive and negative sentiments. Performance was evaluated using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix. The Neural Network model demonstrated strong classification performance on unseen data.
 
 ## Author
 
 Haider Ali
+
 Data Science Student
-UET Peshawar
+
+University of Engineering and Technology (UET) Peshawar
