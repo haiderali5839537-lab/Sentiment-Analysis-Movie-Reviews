@@ -25,6 +25,14 @@ This project performs sentiment analysis on movie reviews using Natural Language
 * Streamlit
 * Matplotlib
 * Seaborn
+  
+## Machine Learning Models
+
+### Naive Bayes
+Used as the baseline machine learning classifier for sentiment classification.
+
+### Neural Network
+Implemented using Keras with TensorFlow backend. The neural network contains two hidden layers with ReLU activation and an output layer with sigmoid activation for binary classification.
 
 ## Dataset
 
